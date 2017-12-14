@@ -4,7 +4,7 @@ Janelia Research Campus (https://www.janelia.org/lab/zlatic-lab).
 
 More specifically, these programs are used to analyze the inactivation t5 screen of Tihana Jovanic.
 
-## pipeline_extract_states: ##
+### pipeline_extract_states: ###
 the program that analyse the larva files to give the evolution of actions with time.
 Input files are the contour file (the outline of the larva) and the spine file (the centred line joining the head to the tail)
 
