@@ -1,7 +1,7 @@
 # Pipeline_action_analysis_t5_pasteur_janelia
 
 Ensemble of programs used to analyze screens performed in the Zlatic lab at the Janelia Research Campus (https://www.janelia.org/lab/zlatic-lab). 
-More specifically, these programs are used to analyze the inactivation t5 screen of Tihana Jovanic.
+More specifically, these programs are used to analyze the inactivation t5 (air-puff) screen of Tihana Jovanic.
 
 ### pipeline_extract_states: ###
 The program that analyse the larva files to give the evolution of actions with time. Input files are the contour file (the outline of the larva) and the spine file (the centred line joining the head to the tail). The program output a trx_with_states.mat files with all the larvae treated, the contour and spine to plot dynamic evolution of the larvaß, numerous features and the time series of actions. Current version of the code still runs numerous routines unrelated to action detection.
