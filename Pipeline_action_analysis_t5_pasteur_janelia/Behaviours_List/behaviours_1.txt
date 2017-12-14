@@ -1,0 +1,6 @@
+run
+cast
+stop
+hunch
+back
+roll
